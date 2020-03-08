@@ -1,7 +1,7 @@
 -------------------------------Shape Drawing Program-----------------------------
 Shape drawing project made by Duc Anh LE, 30th April.2018
 
-This project uses a Raspberry Pi 3 Mode B to hos the project
+This project uses a Raspberry Pi 3 Mode B to host the project
 which allows users to choose the shapes that they want and then
 draws them out to the screen.
 
